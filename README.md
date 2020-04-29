@@ -17,7 +17,7 @@
    4. Connect any physical device to your computer or open your android emulator or IOS simulator. Then open the IDE terminal and type (       flutter run ) to run the project.
    
 # Version:
-   Version is 0.2
+   Version is 2.0
    This is the first version of our app.
    
    
