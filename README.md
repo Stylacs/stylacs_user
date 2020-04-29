@@ -11,10 +11,13 @@
    5. To run and display the app you need an android emulatore or IOS semulatore or a physical device.
    
 # Installing & Executing:
-   1. Click on clone and then click on download zip to download the Zip folder that contain full user app code.
-   2. Unzip the downloaded folder and open it in any IDE.
-   3. Then open the project in any IDE and open the pubspec.yaml and save it by pressing (ctrl + s) so that flutter can get all the           mentioned assets and packages.
-   4. Connect any physical device to your computer or open your android emulator or IOS simulator. Then open the IDE terminal and type (       flutter run ) to run the project.
+   1. Click on clone and then click on download zip to download the Zip folder that contain 2 folders (lib , assets) and a file               (pubspec.yaml).
+   2. Now create a new androidx supported flutter project in CMD by using this command (flutter create --androidx project_name). 
+   3. Unzip the downloaded folder and copy Lib and assets folder to the newly created flutter project.
+   4. Then open pubspec.yaml of downloaded folder and copy all the depandencies and assets and past it to pubspec.yaml of newly created       project.
+   
+   5. Then open the newly project in any IDE and open the pubspec.yaml and save it by pressing (ctrl + s) so that flutter can get all         the mentioned assets and packages.
+   6. Connect any physical device to your computer or open your android emulator or IOS simulator. Then open the IDE terminal and type (       flutter run ) to run the project.
    
 # Version:
    Version is 2.0
