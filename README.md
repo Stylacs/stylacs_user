@@ -11,6 +11,9 @@
    5. To run and display the app you need an android emulatore or IOS semulatore or a physical device.
    
 # Installing & Executing:
+  Github has a direct upload files limit of 100 and we are facing some issues while pushing the files to github through CMD thats why     the installation & execution is a bit confusing but we are working on it and later on we will fix this.     
+
+
    1. Click on clone and then click on download zip to download the Zip folder that contain 2 folders (lib , assets) and a file               (pubspec.yaml).
    2. Now create a new androidx supported flutter project in CMD by using this command (flutter create --androidx project_name). 
    3. Unzip the downloaded folder and copy Lib and assets folder to the newly created flutter project.
